@@ -1,4 +1,4 @@
-"""A lot of the solutions for problem 1 are not my own work.
+"""Some of the solutions for problem 1 are not my own work.
 I am writing to gain a better understanding. However,
 problems 2 and 3 are my own work.
 """
