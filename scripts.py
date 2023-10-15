@@ -1,6 +1,6 @@
 """A lot of the solutions for problem 1 are not my own work.
 I am writing to gain a better understanding. However,
-problems 2 and 3 are my own work.2 and 3 are my own work.
+problems 2 and 3 are my own work.
 """
 #Say "Hello, World!" With Python
 if __name__ == '__main__':
